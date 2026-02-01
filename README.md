@@ -1,6 +1,6 @@
 öncelikle yt kanalım=
 
-https://www.youtube.com/@S_P1RE
+  https://www.youtube.com/@S_P1RE
 
 bana destek vermeyi unutmayın
 
@@ -8,8 +8,12 @@ bana destek vermeyi unutmayın
 
 proje linkleri QR koda çevirmeye yarar kullanımı basittir
 
-bu projeyi kullanmak için bilgisayarınızda Python 3.10.+ sürüm kurulu olmalıdır 
+   görselleri videoları vs linke çevirmek için ya drive kullanın ya da 
 
-giriş seviyesi basit bir proje 
+  tarayıcınıza .xx (uzantınız neyse) to url yazın ve urlye çevirin
+
+  bu projeyi kullanmak için bilgisayarınızda Python 3.10.+ sürüm kurulu olmalıdır 
+
+ giriş seviyesi basit bir proje 
 
 
